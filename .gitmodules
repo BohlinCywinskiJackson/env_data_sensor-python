@@ -1,0 +1,3 @@
+[submodule "confuse"]
+	path = confuse
+	url = https://github.com/beetbox/confuse
